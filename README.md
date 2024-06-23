@@ -1,3 +1,5 @@
+project made with course "Building a GraphQL Project with React.js" (https://www.linkedin.com/learning/building-a-graphql-project-with-react-js/why-use-react-with-graphql-for-projects?dApp=53239054&amp;leis=LAA&amp;resume=false&amp;u=2113185)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
